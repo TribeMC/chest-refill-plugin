@@ -1,0 +1,15 @@
+name: Chest
+main: V3Chest.main
+version: 1.0
+author: V3lop5
+commands:
+  setchest:
+    description: Setzt eine Kiste
+  setgroup:
+    description: Setzt eine Gruppe
+permission:
+  chest.notify:
+    default: op
+  chest.setchest:
+    default: op
+    
